@@ -1,1 +1,0 @@
-Poopenfarten Development's resources
