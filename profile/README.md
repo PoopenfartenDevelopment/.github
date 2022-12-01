@@ -27,3 +27,7 @@ we strive for easy to use clients for everyone. With our clients, we will not on
     <a href="https://github.com/PoopenfartenDevelopment/NetherFreedom-Client">NFClient</a>
   </p>
 </div>
+
+<p align="right">
+    <b>© 2022 PoopenfartenDevelopment</b>
+</p>
