@@ -18,9 +18,9 @@
   <p align="center">
     <strong>Our projects:</strong>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">HIGTools</a>
+    <a href="https://github.com/poopenfarten-development/HIGTools">HIGTools</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">NFClient</a>
+    <a href="https://github.com/poopenfarten-development/NetherFreedom-Client">NFClient</a>
   </p>
 </div>
 
