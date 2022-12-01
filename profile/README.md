@@ -1,7 +1,7 @@
  <br />
 <div align="center">
   <a href="https://github.com/PoopenfartenDevelopment/.github">
-    <img src="https://github.com/PoopenfartenDevelopment/.github/resources/logo.png" alt="Logo" width="100" height="100">
+    <img src="resources/logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Poopenfarten Development</h3>
