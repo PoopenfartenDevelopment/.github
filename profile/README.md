@@ -1,6 +1,6 @@
  <br />
 <div align="center">
-  <a href="https://github.com/poopenfarten-development/poopenfarten">
+  <a href="https://github.com/poopenfarten-development/.github">
     <img src="resources/logo.png" alt="Logo" width="100" height="100">
   </a>
 
