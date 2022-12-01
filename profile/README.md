@@ -1,7 +1,7 @@
  <br />
 <div align="center">
   <a href="https://github.com/PoopenfartenDevelopment/.github">
-    <img src="resources/logo.png" alt="Logo" width="100" height="100">
+    <img src="resources/logo.png" alt="logo" width="20%">
   </a>
 
   <h3 align="center">Poopenfarten Development</h3>
@@ -23,8 +23,8 @@ we strive for easy to use clients for everyone. With our clients, we will not on
   <p align="center">
     <strong>Our projects:</strong>
     <br />
-    <a href="https://github.com/poopenfarten-development/HIGTools">HIGTools</a>
+    <a href="https://github.com/PoopenfartenDevelopment/HIGTools">HIGTools</a>
     ·
-    <a href="https://github.com/poopenfarten-development/NetherFreedom-Client">NFClient</a>
+    <a href="https://github.com/PoopenfartenDevelopment/NetherFreedom-Client">NFClient</a>
   </p>
 </div>
