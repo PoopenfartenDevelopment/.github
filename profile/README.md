@@ -24,7 +24,7 @@ we strive for easy to use clients for everyone. With our clients, we will not on
     <br />
     <a href="https://github.com/PoopenfartenDevelopment/HIGTools">HIGTools</a>
     ·
-    <a href="https://github.com/PoopenfartenDevelopment/NetherFreedom-Client">NFClient</a>
+    <a href="https://github.com/PoopenfartenDevelopment/FartenWare">FartenWare</a>
     ·
     <a href="https://github.com/drtshock/Potato">Venus</a>
   </p>
