@@ -25,9 +25,11 @@ we strive for easy to use clients for everyone. With our clients, we will not on
     <a href="https://github.com/PoopenfartenDevelopment/HIGTools">HIGTools</a>
     ·
     <a href="https://github.com/PoopenfartenDevelopment/NetherFreedom-Client">NFClient</a>
+    ·
+    <a href="https://github.com/drtshock/Potato">Venus</a>
   </p>
 </div>
 
 <p align="right">
-    <b>© 2022 PoopenfartenDevelopment</b>
+    <b>© 2023 PoopenfartenDevelopment</b>
 </p>
