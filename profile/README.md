@@ -22,7 +22,7 @@ we strive for easy to use clients for everyone. With our clients, we will not on
   <p align="center">
     <strong>Our projects:</strong>
     <br />
-    <a href="https://github.com/PoopenfartenDevelopment/HIGTools">HIGTools</a>
+    <a href="https://github.com/RedCarlos26/HIGTools">HIGTools</a>
     ·
     <a href="https://github.com/PoopenfartenDevelopment/FartenWare">FartenWare</a>
     ·
