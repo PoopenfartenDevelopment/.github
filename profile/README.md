@@ -15,8 +15,8 @@
     <br />
 </div>
 
-Here at Poopenfarten Development, we strive to make the anarchy environment a better place for players. Using revolutionnary artificial intelligence in combination with our technologies,
-we strive for easy to use clients for everyone, across out different projects. With them, we will not only make anarchy a better place, but we will change it as a whole.
+Here at Poopenfarten Development, we strive to make the anarchy environment a better place for players. Using revolutionnary technologies in our different projects,
+we strive for easy to use clients for everyone. With them, we will not only make anarchy a better place, but we will change it as a whole.
 
 </div>
   <p align="center">
