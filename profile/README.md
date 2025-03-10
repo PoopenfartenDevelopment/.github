@@ -22,8 +22,6 @@ we strive for easy to use clients for everyone. With them, we will not only make
   <p align="center">
     <strong>Our projects:</strong>
     <br />
-    <a href="https://github.com/RedCarlos26/HIGTools">HIGTools</a>
-    ·
     <a href="https://github.com/PoopenfartenDevelopment/FartenWare">FartenWare</a>
     ·
     <a href="https://github.com/drtshock/Potato">Venus</a>
